@@ -15,3 +15,9 @@ then get rid of the evens
     if any of those numbers can be divided by 2 throw em away
 then add them all together
     take remaining numbersFound and get their sum
+
+    omg they changed the question apparently soooo gotta update the code now
+
+    new parameters...
+    Among the first 918 thousand square numbers, what is the sum of all the odd squares? 
+    so go change 777000 to 918k 

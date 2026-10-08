@@ -3,7 +3,7 @@ using System.Globalization;
 
 List<long> squares = new List<long>();
 // create loop to find all squares until 777000 found
-for (long i = 1; i <= 5; i++)
+for (long i = 1; i <= 918000; i++)
 {
     // grab your newly created list named squares and add the squares until you reach <= 5 as requested above
     squares.Add(i * i);
